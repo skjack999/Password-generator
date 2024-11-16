@@ -3,7 +3,7 @@
 - Do not use it for malicious purposes or illegal purpose,
 - and remember Allah is watching you❗
 
-- Install Command 👉 
+- Tarmux Install Command 👉 
 
 - pkg install python
 - pkg install python2
