@@ -10,3 +10,5 @@ pkg install python2
 pkg install python3
 pkg insyall git
 git clone https://github.com/skjack999/Password-generator.git
+cd Password-generator
+python password-generator.py
