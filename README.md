@@ -1,8 +1,4 @@
 # Password-generator
-
-
->>>>>>>>>>≥  Created By Jack ≤<<<<<<<<<<<<<
-
 📌
 This tool is created for legal purpose only, do not use it for malicious purposes or illegal purpose ❌
 and remember Allah is watching you❗
